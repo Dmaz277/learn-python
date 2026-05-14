@@ -1,0 +1,25 @@
+Function itu apa dan buat apa = untuk diguankan berkali kali dan function itu untuk mendefinisikan sesuatu
+
+Bedanya parameter dan argument = parameter untuk nama fungsi dan argument adalah isi dari parameter yang dibuat di luar function
+
+Return itu buat apa, bedanya sama print = return untuk mengembalikan nilai, print untuk menampilkan output ke user
+
+Kenapa variabel di dalam function ga bisa diakses dari luar = karena function itu di lingkungannya sendiri makanya gabisa diakses dari luar
+
+List vs Dictionary — bedanya apa = list untuk menyimpan nilai dengan jumlah yang banyak,sedangkan dictionary untuk key dan value
+
+append, pop, remove — masing-masing buat apa = append untuk nambah nilai, pop untuk mengahpus menggunakan index di list ,remove untuk menghapus nilai atau clear untuk menghapus semua nilai di list
+
+keys(), values() — buat apa = key kunci dan values nilai atau isi dari key key itu seperti untuk nama dari value
+
+max(produk, key=produk.get) — cara kerjanya = untuk mengeluarkan key paling besar secara values sedangkan versi max(produk.values) yang keluar valuenya 
+
+return di dalam loop → function langsung keluar, loop berhenti
+
+.items() → buat loop dictionary, dapet key dan value sekaligus
+
+f"{variabel}" → f-string, cara rapi buat tampilin variabel di dalam string
+
+Variabel di dalam function itu lokal → ga bisa dipakai di function lain
+
+Kalau function return sesuatu, harus ditangkap ke variabel baru di luar

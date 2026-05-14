@@ -1,0 +1,4 @@
+% = untuk hasil sisa ganjil genap sisa dari itu adalah hasilnya di file 02
+= untuk ngisi nilai ,== untuk ngecek nilai
+beda while dan for adalah kalau while dipakai saat tidak tau loop nya mau berapa kali, sedangkan for dipakai kalau kita tau loopnya bakal jalan berapa kali
+break dipake untuk memberhentikan while di setiap program loop yang kita inginkan

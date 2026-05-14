@@ -1,0 +1,28 @@
+"r" untuk baca file
+"w" tulis file namun isi lama nya hilang
+"a" tambah ke file namun isi lama tetap
+"\n" pindah baris,("halo siapa kamu\n") \n nya didalam string
+with open() untuk otomatis nutup file
+Jadi open("data.txt") sama aja dengan open("data.txt", "r")
+print(baris[0]) ngakses list loop
+header = next(reader) buat ngilangin header nya
+writer.writerow(['nama','umur','kota','hobi']) gaperlu pakek tulis.write itu untuk txt ini method dari csv nya di file 04,dan harus pakek [jadi list dia]
+Mode File:
+r: Baca doang (kalo file gaada, error).
+w: Tulis baru (isi lama ilang).
+a: Tambah data di bawah (isi lama aman).
+with open(): Otomatis tutup file. Wajib pake biar data ga korup.
+\n: Enter / baris baru.
+CSV:
+reader: Bongkar isi CSV.
+writer: Masukin data ke CSV.
+next(reader): Skip baris judul (paling atas).
+writerow: Masukin 1 baris.
+writerows: Masukin banyak baris sekaligus.
+Angka:
+int(): Angka bulet (1, 2, 3).
+float(): Angka koma (3.14, 10.5). perbandinganya keduanya kalau rata2 atau kemungkinan hasilnya bisa desimal pakek selalu float kecuali hasilnya pasti bilangan bulat baru int
+
+Logic:
+found = False: Saklar. Kalo data ketemu, ubah jadi True.
++=: Cara singget nambahin nilai (misal: stok += 1).

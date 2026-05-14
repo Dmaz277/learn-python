@@ -1,0 +1,6 @@
+os.path.exists() library python untuk ngecek apakah ada file atau tidak di dalam sistem
+if not row: untuk memastikan kalau bukan baris
+float(): dipake kalau nilai yang diinput kemungkinan bisa desimal
+triple quotes ''': biar tidak perlu ngeprint satu satu
+continue: skip iterasi sekarang dan lanjut ke iterasi berikutnya di loop,Di kode dipake buat skip baris kosong.
+

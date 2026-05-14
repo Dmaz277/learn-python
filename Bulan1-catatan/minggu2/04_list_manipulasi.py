@@ -1,0 +1,11 @@
+angka = [1,4,5,8,3]
+kecil_ke_besar = sorted(angka)
+besar_ke_kecil = sorted(angka,reverse=True)
+terbesar = max(angka)
+terkecil = min(angka)
+total = sum(angka)
+print(kecil_ke_besar)
+print(besar_ke_kecil)
+print(terbesar)
+print(terkecil)
+print(total)
