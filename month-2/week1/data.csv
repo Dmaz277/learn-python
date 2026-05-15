@@ -1,0 +1,4 @@
+name_product,price,stock,category
+mouse,150000,50,peripheral
+keyboard,300000,30,peripheral
+monitor,2000000,10,display

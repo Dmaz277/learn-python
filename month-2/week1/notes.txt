@@ -1,0 +1,8 @@
+pd.read_csv() — reads CSV file and returns a DataFrame directly
+pd.DataFrame() — optional, pd.read_csv() already returns a DataFrame
+df[df['col'] > val] — filter rows where column value meets the condition
+sort_values(by='col') — sort data ascending by default, add ascending=False to reverse
+groupby('col') — group data by a column, then apply aggregation like sum() or mean()
+drop(columns=[]) — removes column temporarily, original file is not affected
+describe() — displays basic statistics: count, mean, min, max, std
+df['new_col'] = df['col1'] * df['col2'] — adds a new calculated column to DataFrame
